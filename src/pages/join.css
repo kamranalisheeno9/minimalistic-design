@@ -1,0 +1,16 @@
+.card-container{
+    padding: 2% 5%;
+}
+.join-text{
+    text-align: center;
+    color: gold;
+}
+
+.sort-by .dropdown-toggle{
+    padding: 10px 30px;
+    background-color: gold;
+    width: fit-content;
+    border-radius: 4px;
+    margin-left: 5%;
+
+}
